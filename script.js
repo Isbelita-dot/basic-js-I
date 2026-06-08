@@ -146,7 +146,7 @@ console.log(result2);
 
 //Escribe tu código aquí
 let firtName = "Isbel"
-  let surname = "Hernandez"
+  let surname = " Hernandez"
 let fullName = name + surname;
     console.log(fullName)
 
